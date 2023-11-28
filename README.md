@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonascferraz&label=Profile%20views&color=0e75b6&style=flat" alt="jonascferraz" /> </p>
 
+- 🔭 Atualmente estou trabalhando em **Farsoft Systems**
+
+- 🌱 Atualmente estou aprendendo **Mysql, Python**
+
+- 💬 Pergunte-me sobre **Mysql**
+
 - 📄 Sobre mim: [https://www.linkedin.com/in/jonascferrazti](https://www.linkedin.com/in/jonascferrazti)
 
 <h3 align="left">Connect with me:</h3>
